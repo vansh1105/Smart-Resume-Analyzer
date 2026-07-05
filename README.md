@@ -92,3 +92,9 @@ Smart Resume Analyzer (also named **ResumePilot** internally) is an AI-powered, 
 
 ## 🔒 Security Note
 This project utilizes a `.gitignore` configured to ensure that **no credentials, `.env` files, or local dependencies (`node_modules`) are ever uploaded to public repositories.** Keep your Gemini and MongoDB credentials secure.
+
+---
+
+## 👤 Author
+
+- Vansh Gandhi — [GitHub](https://github.com/vansh1105)
